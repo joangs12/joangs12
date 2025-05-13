@@ -24,18 +24,16 @@ Busco seguir creciendo profesionalmente en entornos donde los datos sean el moto
 
 ## 🚀 Skills y stack actual
 
-- 🐍 Python | SQL | Bash
-- 🐳 Docker | Linux
-- ☁️ AWS (en formación)
-- 🛠️ ClickHouse | MongoDB | Pandas
+- 🐍 Python | SQL | Bash 
+- 🐳 Docker 
+- ☁️ Google Cloud | Terraform
+- 🛠️  Kafka | Spark 
 
 ---
 
 ## 📚 En proceso de aprendizaje
 
-- Apache Kafka
-- Terraform
-- GCP & Azure
+- AWS & Azure
 - CI/CD & DevOps principles
 
 ---
